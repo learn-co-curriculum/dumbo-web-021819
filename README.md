@@ -6,3 +6,7 @@
 ## Module 1
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
+| Hashketball Review | [Code][hashketball-cod] | [Video][hashketball-vid] |
+
+[hashketball-vid]: https://www.youtube.com/watch?v=lSh8dHdXfNk
+[hashketball-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/01-hashketball-review
