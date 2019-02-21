@@ -9,9 +9,15 @@
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
 | Hashketball Review | [Code][hashketball-cod] | [Video][hashketball-vid] |
+| Intro to Object-Orientation | [Code][oo-cod] | [Video][oo-vid] |
+| OO Relationships — 1:Many | [Code][one-many-cod] | [Video][one-many-vid] |
 
 [hashketball-vid]: https://www.youtube.com/watch?v=lSh8dHdXfNk
 [hashketball-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/01-hashketball-review
+[oo-vid]: https://youtu.be/jHvgbsxa15g
+[oo-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/02-oo
+[one-many-vid]: https://youtu.be/Z_tDgGtbACE
+[one-many-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/03-one-to-many
 
 ## Blog Schedule
 
