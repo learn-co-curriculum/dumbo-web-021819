@@ -11,13 +11,21 @@
 | Hashketball Review | [Code][hashketball-cod] | [Video][hashketball-vid] |
 | Intro to Object-Orientation | [Code][oo-cod] | [Video][oo-vid] |
 | OO Relationships — 1:Many | [Code][one-many-cod] | [Video][one-many-vid] |
+| OO Relationships — Many:Many | [Code][many-many-cod] | [Video][many-many-vid] |
+| Inheritance | [Code][inheritance-cod] | [Video][inheritance-vid] |
 
-[hashketball-vid]: https://www.youtube.com/watch?v=lSh8dHdXfNk
+Missing something? Ping your lead on slack, then check this out: [Old lectures](https://github.com/learn-co-curriculum/nyc-web-062518/blob/master/README.md)
+
 [hashketball-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/01-hashketball-review
-[oo-vid]: https://youtu.be/jHvgbsxa15g
+[hashketball-vid]: https://www.youtube.com/watch?v=lSh8dHdXfNk
 [oo-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/02-oo
-[one-many-vid]: https://youtu.be/Z_tDgGtbACE
+[oo-vid]: https://youtu.be/jHvgbsxa15g
 [one-many-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/03-one-to-many
+[one-many-vid]: https://youtu.be/Z_tDgGtbACE
+[many-many-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/04-many-to-many
+[many-many-vid]: https://youtu.be/Iphn37VvEA0
+[inheritance-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/05-inheritance
+[inheritance-vid]: https://youtu.be/hTgUNvYcTxY
 
 ## Blog Schedule
 
