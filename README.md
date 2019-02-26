@@ -13,7 +13,8 @@
 | OO Relationships — 1:Many | [Code][one-many-cod] | [Video][one-many-vid] |
 | OO Relationships — Many:Many | [Code][many-many-cod] | [Video][many-many-vid] |
 | Inheritance | [Code][inheritance-cod] | [Video][inheritance-vid] |
-| SQL Review | [Code][inheritance-cod] | [Video][inheritance-vid] |
+| SQL Review | [Code][sql-cod] | [Video][sql-vid] |
+| OO Review | [Code][OOreview-cod] | [Video][OOreview-vid] |
 
 Missing something? Ping your lead on slack, then check this out: [Old lectures](https://github.com/learn-co-curriculum/nyc-web-062518/blob/master/README.md)
 
@@ -29,6 +30,8 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [inheritance-vid]: https://youtu.be/hTgUNvYcTxY
 [sql-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/06-intro-sql
 [sql-vid]: https://youtu.be/t-PL3Yh2jNE
+[OOreview-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/07-mod1-review
+[OOreview-vid]: https://youtu.be/IF3eF_n4RPY
 
 ## Blog Schedule
 
