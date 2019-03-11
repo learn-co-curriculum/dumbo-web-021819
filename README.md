@@ -18,6 +18,7 @@
 | Intro to ActiveRecord | [Code][intro-ar-cod] | [Video][intro-ar-vid] |
 | ActiveRecord Associations | [Code][ar-associations-cod] | [Video][ar-associations-vid] |
 | Rack and the Internet | [Code][rack-cod] | [Video][rack-vid] |
+| Intro to Sinatra and MVC | [Code][mvc-cod] | [Video][mvc-vid] |
 
 Missing something? Ping your lead on slack, then check this out: [Old lectures](https://github.com/learn-co-curriculum/nyc-web-062518/blob/master/README.md)
 
@@ -41,6 +42,9 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [ar-associations-vid]: https://m.youtube.com/watch?v=1nQMqtEUDBI
 [rack-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/10-rack-internet
 [rack-vid]: https://www.youtube.com/watch?v=OgT7tbMLfXI
+[mvc-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/11-sinatra-mvc
+[mvc-vid]: https://www.youtube.com/watch?v=HaILVT7S908
+
 
 ## Blog Schedule
 
