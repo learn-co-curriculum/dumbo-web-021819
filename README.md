@@ -53,20 +53,20 @@ Be sure to publish all your blogs on [Medium](https://medium.com/) and slack the
 | **Date**  	| **Blog Presenters**                                                                                                 |
 |-------	|-----------------------------------------------------------------------------------------------------------------------	|
 | 03/04 	| Alessandro Allegranzi, Antoinette Lee, Ashley Archibald, Brian Ryu, Christopher Truong                                  |
-| 03/06 	| Fredi Ramirez, Jaela Wesley, James Dorr, Joel Kohn, Joshua Rivera-Sampayo                                             	|
-| 03/11 	| Juan Alorro, Leonardo Peralta, Marcus Killebrew, Matthew Campbell, Meredith Strickland                                 	|
-| 03/13 	| Ryan Ho, Sadie Bennett, Simon Mei, Vytautas Kilmavicius, William Simpson                                               	|
-| 03/18 	| Alessandro Allegranzi, Antoinette Lee, Ashley Archibald, Brian Ryu, Christopher Truong                                  |
-| 03/20 	| Fredi Ramirez, Jaela Wesley, James Dorr, Joel Kohn, Joshua Rivera-Sampayo                                             	|
-| 03/25	  | Juan Alorro, Leonardo Peralta, Marcus Killebrew, Matthew Campbell, Meredith Strickland                                 	|
+| 03/06 	| Fredi Ramirez, Jaela Wesley, James Dorr                                                                                	|
+| 03/11 	| Juan Alorro, Marcus Killebrew, Matthew Campbell, Meredith Strickland                                                   	|
+| 03/13 	| Ryan Ho, Sadie Bennett, Simon Mei, Vytautas Kilmavicius, William Simpson, Joshua Rivera-Sampayo                         |
+| 03/18 	| Alessandro Allegranzi, Antoinette Lee, Brian Ryu, Christopher Truong                                                    |
+| 03/20 	| Fredi Ramirez, Jaela Wesley, James Dorr, Joshua Rivera-Sampayo                                                        	|
+| 03/25	  | Juan Alorro, Marcus Killebrew, Matthew Campbell, Meredith Strickland                                                   	|
 | 03/27 	| Ryan Ho, Sadie Bennett, Simon Mei, Vytautas Kilmavicius, William Simpson                                               	|
-| 04/01 	| Alessandro Allegranzi, Antoinette Lee, Ashley Archibald, Brian Ryu, Christopher Truong                                  |
-| 04/03 	| Fredi Ramirez, Jaela Wesley, James Dorr, Joel Kohn, Joshua Rivera-Sampayo                                             	|
-| 04/08 	| Juan Alorro, Leonardo Peralta, Marcus Killebrew, Matthew Campbell, Meredith Strickland                                 	|
+| 04/01 	| Alessandro Allegranzi, Antoinette Lee, Brian Ryu, Christopher Truong                                                    |
+| 04/03 	| Fredi Ramirez, Jaela Wesley, James Dorr, Sharon Mun, Joshua Rivera-Sampayo                                             	|
+| 04/08 	| Juan Alorro, Marcus Killebrew, Matthew Campbell, Meredith Strickland                                                   	|
 | 04/10 	| Ryan Ho, Sadie Bennett, Simon Mei, Vytautas Kilmavicius, William Simpson                                               	|
-| 04/15 	| Alessandro Allegranzi, Antoinette Lee, Ashley Archibald, Brian Ryu, Christopher Truong                                  |
-| 04/17 	| Fredi Ramirez, Jaela Wesley, James Dorr, Joel Kohn, Joshua Rivera-Sampayo                                             	|
-| 04/22 	| Juan Alorro, Leonardo Peralta, Marcus Killebrew, Matthew Campbell, Meredith Strickland                                 	|
+| 04/15 	| Alessandro Allegranzi, Antoinette Lee, Brian Ryu, Christopher Truong                                                    |
+| 04/17 	| Fredi Ramirez, Jaela Wesley, James Dorr, Sharon Mun, Joshua Rivera-Sampayo                                             	|
+| 04/22 	| Juan Alorro, Marcus Killebrew, Matthew Campbell, Meredith Strickland                                                   	|
 | 04/24 	| Ryan Ho, Sadie Bennett, Simon Mei, Vytautas Kilmavicius, William Simpson                                               	|
 
 
