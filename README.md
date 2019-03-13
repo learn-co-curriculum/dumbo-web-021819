@@ -19,6 +19,9 @@
 | ActiveRecord Associations | [Code][ar-associations-cod] | [Video][ar-associations-vid] |
 | Rack and the Internet | [Code][rack-cod] | [Video][rack-vid] |
 | Intro to Sinatra and MVC | [Code][mvc-cod] | [Video][mvc-vid] |
+| Forms | [Code][forms-cod] | [Video][forms-vid] |
+| REST I | [Code][rest-1-cod] | [Video][rest-1-vid] |
+| REST II | [Code][rest-2-cod] | [Video][rest-2-vid] |
 
 Missing something? Ping your lead on slack, then check this out: [Old lectures](https://github.com/learn-co-curriculum/nyc-web-062518/blob/master/README.md)
 
@@ -44,7 +47,12 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [rack-vid]: https://www.youtube.com/watch?v=OgT7tbMLfXI
 [mvc-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/11-sinatra-mvc
 [mvc-vid]: https://www.youtube.com/watch?v=HaILVT7S908
-
+[forms-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/12-forms
+[forms-vid]: https://www.youtube.com/watch?v=7BgCavIO1G8
+[rest-1-cod]: https://github.com/learn-co-students/dumbo-web-021819/commit/369ba7c3acc60cc55cb37e4d5c365da8bb2fdedc
+[rest-1-vid]: https://youtu.be/GDNesG5faTc
+[rest-2-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/13-rest
+[rest-2-vid]: https://youtu.be/GDNesG5faTc
 
 ## Blog Schedule
 
