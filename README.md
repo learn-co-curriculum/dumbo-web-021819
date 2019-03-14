@@ -52,7 +52,9 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [rest-1-cod]: https://github.com/learn-co-students/dumbo-web-021819/commit/369ba7c3acc60cc55cb37e4d5c365da8bb2fdedc
 [rest-1-vid]: https://youtu.be/GDNesG5faTc
 [rest-2-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/13-rest
-[rest-2-vid]: https://youtu.be/GDNesG5faTc
+[rest-2-vid]: https://www.youtube.com/watch?v=ehgdu2-950Q
+[sinatra-relationships-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/14-sinatra-relationships
+[sinatra-relationships-vid]: https://youtu.be/M7HoSJswj7Y
 
 ## Blog Schedule
 
