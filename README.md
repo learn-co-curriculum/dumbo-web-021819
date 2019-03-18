@@ -49,7 +49,7 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [mvc-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/11-sinatra-mvc
 [mvc-vid]: https://www.youtube.com/watch?v=HaILVT7S908
 [forms-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/12-forms
-[forms-vid]: https://www.youtube.com/watch?v=7BgCavIO1G8
+[forms-vid]: https://youtu.be/hFJEGxxIs9E
 [rest-1-cod]: https://github.com/learn-co-students/dumbo-web-021819/commit/369ba7c3acc60cc55cb37e4d5c365da8bb2fdedc
 [rest-1-vid]: https://youtu.be/GDNesG5faTc
 [rest-2-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/13-rest
