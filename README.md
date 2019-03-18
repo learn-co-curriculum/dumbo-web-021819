@@ -23,6 +23,7 @@
 | REST I | [Code][rest-1-cod] | [Video][rest-1-vid] |
 | REST II | [Code][rest-2-cod] | [Video][rest-2-vid] |
 | Intro to Rails | [Code][intro-rails-cod] | [Video][intro-rails-vid] |
+| Rails Forms | [Code][rails-forms-cod] | [Video][rails-forms-vid] |
 
 Missing something? Ping your lead on slack, then check this out: [Old lectures](https://github.com/learn-co-curriculum/nyc-web-062518/blob/master/README.md)
 
@@ -58,6 +59,8 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [sinatra-relationships-vid]: https://youtu.be/M7HoSJswj7Y
 [intro-rails-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/15-intro-rails
 [intro-rails-vid]: https://youtu.be/-uTYyq5xulw
+[rails-forms-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/16-rails-forms
+[rails-forms-vid]: https://youtu.be/AoZYOTINPQM
 
 ## Blog Schedule
 
