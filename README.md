@@ -24,6 +24,7 @@
 | REST II | [Code][rest-2-cod] | [Video][rest-2-vid] |
 | Intro to Rails | [Code][intro-rails-cod] | [Video][intro-rails-vid] |
 | Rails Forms | [Code][rails-forms-cod] | [Video][rails-forms-vid] |
+| Rails Validations | [Code][rails-validations-cod] | [Video][rails-validations-vid] |
 | Rails Associations | [Code][rails-associations-cod] | [Video][rails-associations-vid] |
 | Authors / Books Review | [Code][rails-fun-review-cod] | [Video][rails-fun-review-vid] |
 
@@ -63,6 +64,8 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [intro-rails-vid]: https://youtu.be/-uTYyq5xulw
 [rails-forms-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/16-rails-forms
 [rails-forms-vid]: https://youtu.be/AoZYOTINPQM
+[rails-validations-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/17-rails-validations
+[rails-validations-vid]: https://youtu.be/MG5R7tIfTms
 [rails-associations-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/18-rails-associations
 [rails-associations-vid]: https://www.youtube.com/watch?v=aMiS1ZelQnY
 [rails-fun-review-vid]: https://youtu.be/gYP9AgPwg1E
