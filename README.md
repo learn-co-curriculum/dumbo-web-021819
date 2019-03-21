@@ -25,6 +25,7 @@
 | Intro to Rails | [Code][intro-rails-cod] | [Video][intro-rails-vid] |
 | Rails Forms | [Code][rails-forms-cod] | [Video][rails-forms-vid] |
 | Rails Associations | [Code][rails-associations-cod] | [Video][rails-associations-vid] |
+| Authors / Books Review | [Code][rails-fun-review-cod] | [Video][rails-fun-review-vid] |
 
 Missing something? Ping your lead on slack, then check this out: [Old lectures](https://github.com/learn-co-curriculum/nyc-web-062518/blob/master/README.md)
 
@@ -64,6 +65,8 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [rails-forms-vid]: https://youtu.be/AoZYOTINPQM
 [rails-associations-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/18-rails-associations
 [rails-associations-vid]: https://www.youtube.com/watch?v=aMiS1ZelQnY
+[rails-fun-review-vid]: https://youtu.be/gYP9AgPwg1E
+[rails-fun-review-cod]: https://github.com/learn-co-students/rails-practice
 
 ## Blog Schedule
 
