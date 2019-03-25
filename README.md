@@ -71,11 +71,11 @@ Be sure to publish all your blogs on [Medium](https://medium.com/) and slack the
 
 
 ## FSP Schedule
-The night before your FSP presentation, we will do a dry-run (like a rehearsal) to practice timing, pace, and give feedback. Make sure to **plan ahead**. Let your partner and one of the TCFs know ASAP if you cannot make it for your scheduled date so we can plan around it. Thank you.
+Heads up! You must get your FSP topic approved in advance. The night before your FSP presentation, we will do a dry-run (like a rehearsal) to practice timing, pace, and give feedback. Make sure to **plan ahead**. Let your partner and one of the TCFs know ASAP if you cannot make it for your scheduled date so we can plan around it. Thank you.
 
 
 | **Date** | **Group 1** | **Group 2** | **Group 3**
 |----------|----------|----------|----------|----------|----------|
-| 04/09 <br> *(6:15pm - 8:00pm)* | Ryan Ho + James Dorr | Matthew Campbell + Jaela Wesley | Marcus Killebrew + Juan Alorro
-| 04/16 <br> *(6:15pm - 8:00pm)* | Fredi Ramirez + Antoinette Lee | Christopher Truong + Vytautas Klimavicius | Joshua Rivera-Sampayo + William Simpson
+| 04/09 <br> *(6:15pm - 8:00pm)* | Fredi Ramirez + Antoinette Lee | Christopher Truong + Vytautas Klimavicius | Joshua Rivera-Sampayo + William Simpson
+| 04/16 <br> *(6:15pm - 8:00pm)* | Ryan Ho + James Dorr | Matthew Campbell + Jaela Wesley | Marcus Killebrew + Juan Alorro
 | 04/23 <br> *(6:15pm - 8:00pm)* | Alessandro Allegranzi +	Sadie Bennett | Simon Mei +	Meredith Strickland  | Sharon Mun +	Brian Ryu
