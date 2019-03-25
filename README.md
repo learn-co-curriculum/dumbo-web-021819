@@ -3,7 +3,6 @@
 ## Calendar
 <iframe src="https://calendar.google.com/calendar/embed?mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=flatironschool.com_beat8cpem9pjlrdtck98mm7aqo%40group.calendar.google.com&amp;color=%232952A3&amp;src=flatironschool.com_2cpuq5atq16s7jp4npn1caodeg%40group.calendar.google.com&amp;color=%2328754E&amp;ctz=America%2FNew_York" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-## Module 1
 [All code](https://github.com/learn-co-students/dumbo-web-021819)
 
 | Topic            | Code                | Video                |
@@ -27,6 +26,7 @@
 | Rails Validations | [Code][rails-validations-cod] | [Video][rails-validations-vid] |
 | Rails Associations | [Code][rails-associations-cod] | [Video][rails-associations-vid] |
 | Authors / Books Review | [Code][rails-fun-review-cod] | [Video][rails-fun-review-vid] |
+| Rails Authentication 1 | [Code][rails-auth1-cod] | [Video][rails-auth1-vid] |
 
 Missing something? Ping your lead on slack, then check this out: [Old lectures](https://github.com/learn-co-curriculum/nyc-web-062518/blob/master/README.md)
 
@@ -70,6 +70,8 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [rails-associations-vid]: https://www.youtube.com/watch?v=aMiS1ZelQnY
 [rails-fun-review-vid]: https://youtu.be/gYP9AgPwg1E
 [rails-fun-review-cod]: https://github.com/learn-co-students/rails-practice
+[rails-auth1-vid]: https://youtu.be/VqMh8_URsgc
+[rails-auth1-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/19-rails-auth
 
 ## Blog Schedule
 
