@@ -29,6 +29,7 @@
 | Rails Authentication 1 | [Code][rails-auth1-cod] | [Video][rails-auth1-vid] |
 | Rails Authentication 2 | [Code][rails-auth2-cod] | [Video][rails-auth2-vid] |
 | Intro to Front-End Web Development | [Code][intro-fe-cod] | [Video][intro-fe-vid] |
+| Intro to the DOM | [Code][intro-dom-cod] | [Video][intro-dom-vid] |
 
 Missing something? Ping your lead on slack, then check this out: [Old lectures](https://github.com/learn-co-curriculum/nyc-web-062518/blob/master/README.md)
 
@@ -78,7 +79,8 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [rails-auth2-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/20-rails-author
 [intro-fe-vid]: https://youtu.be/x4_OQ68rO0g
 [intro-fe-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/21-intro-to-front-end-web
-
+[intro-dom-vid]: https://youtu.be/QFMP69p5_Ng
+[intro-dom-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/22-intro-to-the-dom
 
 ## Blog Schedule
 
