@@ -30,6 +30,8 @@
 | Rails Authentication 2 | [Code][rails-auth2-cod] | [Video][rails-auth2-vid] |
 | Intro to Front-End Web Development | [Code][intro-fe-cod] | [Video][intro-fe-vid] |
 | Intro to the DOM | [Code][intro-dom-cod] | [Video][intro-dom-vid] |
+| Intro to Events | [Code][intro-events-cod] | [Video][intro-events-vid] |
+| DOM CRUD | [Code][dom-crud-cod] | [Video Part 1][dom-crud-vid-1] & [Part 2][dom-crud-vid-2] |
 
 Missing something? Ping your lead on slack, then check this out: [Old lectures](https://github.com/learn-co-curriculum/nyc-web-062518/blob/master/README.md)
 
@@ -81,6 +83,11 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [intro-fe-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/21-intro-to-front-end-web
 [intro-dom-vid]: https://youtu.be/QFMP69p5_Ng
 [intro-dom-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/22-intro-to-the-dom
+[intro-events-vid]: https://youtu.be/Y0_vGW9nXaA
+[intro-events-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/23-intro-to-events
+[dom-crud-vid-1]: https://youtu.be/AUhOXpmrqXU
+[dom-crud-vid-2]: https://youtu.be/vQYlKkAGBHo
+[dom-crud-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/24-dom-crud
 
 ## Blog Schedule
 
