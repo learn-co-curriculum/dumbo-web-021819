@@ -32,6 +32,7 @@
 | Intro to the DOM | [Code][intro-dom-cod] | [Video][intro-dom-vid] |
 | Intro to Events | [Code][intro-events-cod] | [Video][intro-events-vid] |
 | DOM CRUD | [Code][dom-crud-cod] | [Video Part 1][dom-crud-vid-1] & [Part 2][dom-crud-vid-2] (*[BONUS!][dom-crud-vid-3]) |
+| Intro to fetch | [Code][intro-fetch-cod] | [Video][intro-fetch-vid] |
 
 Missing something? Ping your lead on slack, then check this out: [Old lectures](https://github.com/learn-co-curriculum/nyc-web-062518/blob/master/README.md)
 
@@ -89,6 +90,8 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [dom-crud-vid-2]: https://youtu.be/vQYlKkAGBHo
 [dom-crud-vid-3]: https://youtu.be/wbLzVCFB730
 [dom-crud-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/24-dom-crud
+[intro-fetch-vid]: https://youtu.be/hIwYDIVS0-E
+[intro-fetch-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/25-intro-to-fetch
 
 ## Blog Schedule
 
