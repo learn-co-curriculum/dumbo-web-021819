@@ -34,6 +34,7 @@
 | DOM CRUD | [Code][dom-crud-cod] | [Video Part 1][dom-crud-vid-1] & [Part 2][dom-crud-vid-2] (*[BONUS!][dom-crud-vid-3]) |
 | Intro to fetch | [Code][intro-fetch-cod] | [Video][intro-fetch-vid] |
 | fetch CRUD | [Code][fetch-crud-cod] | [Video Part 1][fetch-crud-vid-1] & [Part 2][fetch-crud-vid-2] |
+| React Props | [Code][react-props-code] | [Video][react-props-vid] |
 
 Missing something? Ping your lead on slack, then check this out: [Old lectures](https://github.com/learn-co-curriculum/nyc-web-062518/blob/master/README.md)
 
@@ -96,6 +97,8 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [fetch-crud-vid-1]: https://youtu.be/vU162oi4C8Q
 [fetch-crud-vid-2]: https://youtu.be/iWc-8CNl6DA
 [fetch-crud-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/26-fetch-crud
+[react-props-code]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/30-react/rap-rater
+[react-props-vid]: https://youtu.be/5SrcHZSAw1s
 
 ## Blog Schedule
 
