@@ -35,6 +35,7 @@
 | Intro to fetch | [Code][intro-fetch-cod] | [Video][intro-fetch-vid] |
 | fetch CRUD | [Code][fetch-crud-cod] | [Video Part 1][fetch-crud-vid-1] & [Part 2][fetch-crud-vid-2] |
 | React Props | [Code][react-props-code] | [Video][react-props-vid] |
+| React State & Events | [Code][react-state-code] | [Video][react-state-vid] |
 
 Missing something? Ping your lead on slack, then check this out: [Old lectures](https://github.com/learn-co-curriculum/nyc-web-062518/blob/master/README.md)
 
@@ -99,6 +100,8 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [fetch-crud-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/26-fetch-crud
 [react-props-code]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/30-react/rap-rater
 [react-props-vid]: https://youtu.be/5SrcHZSAw1s
+[react-state-code]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/31-react-state/rap-rater
+[react-state-vid]: https://youtu.be/bUCmYylqE14
 
 ## Blog Schedule
 
