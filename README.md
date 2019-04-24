@@ -31,9 +31,10 @@
 | Intro to Front-End Web Development | [Code][intro-fe-cod] | [Video][intro-fe-vid] |
 | Intro to the DOM | [Code][intro-dom-cod] | [Video][intro-dom-vid] |
 | Intro to Events | [Code][intro-events-cod] | [Video][intro-events-vid] |
-| DOM CRUD | [Code][dom-crud-cod] | [Video Part 1][dom-crud-vid-1] & [Part 2][dom-crud-vid-2] (*[BONUS!][dom-crud-vid-3]) |
+| DOM CRUD | [Code][dom-crud-cod] | [Video Part 1][dom-crud-vid-1] & [Part 2][dom-crud-vid-2] (*[BONUS!][dom-crud-vid-3]*) |
 | Intro to fetch | [Code][intro-fetch-cod] | [Video][intro-fetch-vid] |
 | fetch CRUD | [Code][fetch-crud-cod] | [Video Part 1][fetch-crud-vid-1] & [Part 2][fetch-crud-vid-2] |
+| Asynchronous JS | [Code][async-js-cod] | [Video][async-js-vid]
 | React Props | [Code][react-props-code] | [Video][react-props-vid] |
 | React State & Events | [Code][react-state-code] | [Video][react-state-vid] |
 
@@ -98,6 +99,8 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [fetch-crud-vid-1]: https://youtu.be/vU162oi4C8Q
 [fetch-crud-vid-2]: https://youtu.be/iWc-8CNl6DA
 [fetch-crud-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/26-fetch-crud
+[async-js-vid]: https://youtu.be/_felFN1mSUE
+[async-js-cod]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/29.5-async-js
 [react-props-code]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/30-react/rap-rater
 [react-props-vid]: https://youtu.be/5SrcHZSAw1s
 [react-state-code]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/31-react-state/rap-rater
