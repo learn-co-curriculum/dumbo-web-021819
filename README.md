@@ -36,6 +36,8 @@
 | fetch CRUD | [Code][fetch-crud-cod] | [Video Part 1][fetch-crud-vid-1] & [Part 2][fetch-crud-vid-2] |
 | React Props | [Code][react-props-code] | [Video][react-props-vid] |
 | React State & Events | [Code][react-state-code] | [Video][react-state-vid] |
+| React Review | [Code][react-review-code] | [Video][react-review-vid] |
+| React Forms | [Code][react-forms-code] | [Video][react-forms-vid] |
 
 Missing something? Ping your lead on slack, then check this out: [Old lectures](https://github.com/learn-co-curriculum/nyc-web-062518/blob/master/README.md)
 
@@ -102,6 +104,10 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [react-props-vid]: https://youtu.be/5SrcHZSAw1s
 [react-state-code]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/31-react-state/rap-rater
 [react-state-vid]: https://youtu.be/bUCmYylqE14
+[react-review-code]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/32-react-review
+[react-review-vid]: https://youtu.be/jXRyV1ewP4U
+[react-forms-code]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/33-react-forms/rap-rater
+[react-forms-vid]: https://youtu.be/J5op8Nygy2s
 
 ## Blog Schedule
 
