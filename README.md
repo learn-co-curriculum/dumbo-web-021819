@@ -40,6 +40,7 @@
 | React Review | [Code][react-review-code] | [Video][react-review-vid] |
 | React Forms | [Code][react-forms-code] | [Video][react-forms-vid] |
 | Pets Review | [Code][pets-review-code] | [Video][pets-review-vid] |
+| React Router | [Code][react-router-code] | [Video][react-router-vid] |
 
 Missing something? Ping your lead on slack, then check this out: [Old lectures](https://github.com/learn-co-curriculum/nyc-web-062518/blob/master/README.md)
 
@@ -114,6 +115,8 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [react-forms-vid]: https://youtu.be/J5op8Nygy2s
 [pets-review-code]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/34-pets-review
 [pets-review-vid]: https://youtu.be/b4TxVxJntYA
+[react-router-code]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/35-react-router
+[react-router-vid]: https://youtu.be/DRxfkH02Xmo
 
 ## Blog Schedule
 
