@@ -43,6 +43,7 @@
 | React Router | [Code][react-router-code] | [Video][react-router-vid] |
 | React Auth | [Code][react-auth-code] | [Video][react-auth-vid] |
 | React Redux Guest | [Code][react-redux-guest-code] | [Video][react-redux-guest-vid] |
+| React Redux | [Code][react-redux-code] | [Video][react-redux-vid] |
 
 Missing something? Ping your lead on slack, then check this out: [Old lectures](https://github.com/learn-co-curriculum/nyc-web-062518/blob/master/README.md)
 
@@ -123,6 +124,8 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [react-auth-vid]: https://youtu.be/3nuWQWTfhWE
 [react-redux-guest-code]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/37-react-redux-guest
 [react-redux-guest-vid]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/37-react-redux-guest
+[react-redux-code]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/38-react-redux
+[react-redux-vid]: https://youtu.be/8EUOWp_bATo
 
 ## Blog Schedule
 
