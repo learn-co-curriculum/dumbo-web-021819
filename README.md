@@ -46,6 +46,7 @@
 | React Redux | [Code][react-redux-code] | [Video][react-redux-vid] |
 | Redux Forms | [Code][redux-forms-code] | [Video][redux-forms-vid] |
 | Redux Thunk | [Code][redux-thunk-code] | [Video][redux-thunk-vid] |
+| Combine Reducers | [Code][combine-reducers-code] |  |
 
 Missing something? Ping your lead on slack, then check this out: [Old lectures](https://github.com/learn-co-curriculum/nyc-web-062518/blob/master/README.md)
 
@@ -132,6 +133,7 @@ Missing something? Ping your lead on slack, then check this out: [Old lectures](
 [redux-forms-vid]: https://youtu.be/ykiKRd_PvsQ
 [redux-thunk-code]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/40-redux-thunk
 [redux-thunk-vid]: https://youtu.be/moVTuYf3ano
+[combine-reducers-code]: https://github.com/learn-co-students/dumbo-web-021819/tree/master/41-combine-reducers/sepoora-client
 
 ## Blog Schedule
 
